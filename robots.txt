@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oothibeguc.erikstackelberg.com/sitemap.xml
